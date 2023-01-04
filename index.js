@@ -1,3 +1,4 @@
+//change nothing but learning the use of GIT
 //get number
 function number(num){
     var result = document.getElementById("input");
